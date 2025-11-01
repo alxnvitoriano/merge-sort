@@ -45,10 +45,4 @@ func main() {
     sorted := mergeSort(arr)
     fmt.Println("Array depois da ordenação:", sorted)
     fmt.Println()
-    
-    // Teste do algoritmo de troco mínimo
-    TesteTrocoMinimo()
-    
-    // Teste do algoritmo de atividades compatíveis
-    TesteAtividadesCompativeis()
 }
